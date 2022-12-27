@@ -29,7 +29,6 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -37,12 +36,7 @@
 
 ![screenshot](screenshot-myteampage.jpg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This page is a challenge from the website devchallegnes.io. I was looking for challenges to do to learn by practicing. It is fun to do. I used flexbox but I know we can also use Grid. 
 
 ### Built With
 
@@ -54,4 +48,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@ju-illet](https://{github.com/ju-illet})
