@@ -11,7 +11,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/ju-illet/Team-page---devchallenges.io">
+    <a href="https://github.com/ju-illet/Challenges---recreate--devchallenges.io/tree/main/My-team-page>
       Solution
     </a>
     <span> | </span>
