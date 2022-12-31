@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404page-ju-illet.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/solutions/qgQ00VW7fgrBj9D2pG5v">
       Challenge
     </a>
   </h3>
@@ -38,7 +38,7 @@
 ![screenshot](https://github.com/ju-illet/Challenges---recreate--devchallenges.io/blob/main/404-not-found-master/screenshot-404page.jpg)
 
 - Mobile first
-- Responsive
+- Responsive. Checked with https://xrespond.com/. Most of the time there is no scrolling (scrolling is not necessary on a 404 page.)
 
 ### Built With
 
